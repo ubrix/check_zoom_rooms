@@ -1,0 +1,56 @@
+{
+    "page_count": 1,
+    "page_number": 1,
+    "page_size": 30,
+    "total_records": 10,
+    "zoom_rooms": [
+        {
+            "account_type": "Google Service Account",
+            "email": "zoom@domin.com",
+            "id": "asdf1",
+            "meeting_id": "",
+            "messages": {
+                "last_started_time": "2018-08-04T00:01:24Z",
+                "running_time": "4 days 8 hours 40 mins",
+                "selected_camera": "Logi Group Camera",
+                "selected_microphone": "Echo Cancelling Speakerphone (Logi Group Speakerphone)",
+                "selected_speaker": "Echo Cancelling Speakerphone (Logi Group Speakerphone)"
+            },
+            "passcode": "0000",
+            "room_name": "Room1 4p",
+            "status": "Available"
+        },
+        {
+            "account_type": "Google Service Account",
+            "email": "zoom@domin.com",
+            "id": "asdf2",
+            "meeting_id": "some_id",
+            "messages": {
+                "last_started_time": "2018-08-04T07:05:14Z",
+                "running_time": "4 days 1 hour 36 mins",
+                "selected_camera": "Logi Group Camera",
+                "selected_microphone": "Echo Cancelling Speakerphone (Logi Group Speakerphone)",
+                "selected_speaker": "Echo Cancelling Speakerphone (Logi Group Speakerphone)"
+            },
+            "passcode": "0000",
+            "room_name": "Room2 6p",
+            "status": "In Meeting"
+        },
+        {
+            "account_type": "Google Service Account",
+            "email": "zoom@domin.com",
+            "id": "asdf3",
+            "meeting_id": "",
+            "messages": {
+                "last_started_time": "2018-08-06T16:26:04Z",
+                "running_time": "1 day 16 hours 15 mins",
+                "selected_camera": "Logi Group Camera",
+                "selected_microphone": "Echo Cancelling Speakerphone (2- Logi Group Speakerphone)",
+                "selected_speaker": "Echo Cancelling Speakerphone (2- Logi Group Speakerphone)"
+            },
+            "passcode": "0000",
+            "room_name": "Room3 4p",
+            "status": "Offline"
+        }
+    ]
+}
